@@ -9,4 +9,6 @@ A C++ implementation of a recursive-backtracking algorithm for solving sudoku pu
 
 ### Output:
 
+Image of the output:
+
 ![Image of Sudoku](https://github.com/abheekvimal/Sudoku-Solver/blob/master/Image.PNG)
