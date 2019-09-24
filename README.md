@@ -4,4 +4,4 @@ A C++ implementation of a recursive-backtracking algorithm for solving sudoku pu
 
 ## Output:
 
-![Image of Sudoku](https://octodex.github.com/images/yaktocat.png)
+![Image of Sudoku](https://github.com/abheekvimal/Sudoku-Solver/blob/master/Image.PNG)
