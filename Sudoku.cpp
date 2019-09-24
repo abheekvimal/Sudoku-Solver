@@ -64,7 +64,6 @@ int sudokuHelper(int puzzle[][9], int row, int column)
     {
         return 1;
     }
-
     
     if (puzzle[row][column]) // If the entry is non-zero, don't change it. 
     {
@@ -84,6 +83,7 @@ int sudokuHelper(int puzzle[][9], int row, int column)
         }
         return 0;
     }
+    
     for (int nIteration = 1; nIteration<=9; nIteration++) // Potential value of the cell. 
     {
         if(checkValidity(nIteration, puzzle, row, column)) // Check if the potential value is valid in that cell. 
